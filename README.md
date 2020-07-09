@@ -1,4 +1,13 @@
-### Hi there 👋
+ # Olá, eu sou o Hadson 👋
+ 
+ ### 🔭 Atualmente, estou terminando a faculdade e estudando para ampliar meus conhecimentos. 
+ 
+ ### 🌱 Atualmente, estou aprendendo JavaScript e Node, Reactjs. 
+ </br>
+ 
+ ##  📫 Como me alcançar: 
+
+<a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a>
 
 <!--
 **Hadsondev/Hadsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
