@@ -1,23 +1,6 @@
  # Olá, eu sou Hadson 👋
          
- ### 🔭 Atualmente, Sou estudante do curso de Sistemas de Informação do 8º Semestre 💻 . 
- 
-  
- ### 📖 Recentemente começei a fazer o curso de desenvolvedor Fullstack na DevPleno 
- 
- 
- ### 🌱 Atualmente, estou aprendendo algumas Stacks como JavaScript, Node, Next e Etc. 
- </br>
- 
- ##  📫 Como entrar em contato:
-
-📧 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a>
- 
-🧳 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">Linkedin</a>
-
-💬 <a href="https://t.me/hadsonmartins" target="_blank">Telegram</a>
-
-```
+         ```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -38,6 +21,25 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
+         
+ ### 🔭 Atualmente, Sou estudante do curso de Sistemas de Informação do 8º Semestre 💻 . 
+ 
+  
+ ### 📖 Recentemente começei a fazer o curso de desenvolvedor Fullstack na DevPleno 
+ 
+ 
+ ### 🌱 Atualmente, estou aprendendo algumas Stacks como JavaScript, Node, Next e Etc. 
+ </br>
+ 
+ ##  📫 Como entrar em contato:
+
+📧 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a>
+ 
+🧳 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">Linkedin</a>
+
+💬 <a href="https://t.me/hadsonmartins" target="_blank">Telegram</a>
+
+
 
                             
 <!--
