@@ -6,7 +6,7 @@
  ### 📖 Recentemente começei a fazer o curso de desenvolvedor Fullstack na DevPleno 
  
  
- ### 🌱 Atualmente, estou aprendendo JavaScript, Node e Reactjs. 
+ ### 🌱 Atualmente, estou aprendendo algumas Stacks como JavaScript, Node, Next e Etc. 
  </br>
  
  ##  📫 Como entrar em contato: 
@@ -14,6 +14,8 @@
 📧 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a> </br>
  
 🧳 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">Linkedin</a>
+
+💬 <a href="https://t.me/hadsonmartins" target="_blank">Telegram</a>
 
 
 <!--
