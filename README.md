@@ -1,7 +1,7 @@
  # Olá, eu sou Hadson 👋
  
   
- ### 🔭 Atualmente, Sou estudande do curso de Sistemas de Informação do 8º Semestre . 
+ ### 🔭 Atualmente, Sou estudande do curso de Sistemas de Informação do 8º Semestre 💻 . 
  
   
  ### 📖 Recentemente começei a fazer o curso de desenvolvedor Fullstack na DevPleno 
@@ -10,7 +10,7 @@
  ### 🌱 Atualmente, estou aprendendo algumas Stacks como JavaScript, Node, Next e Etc. 
  </br>
  
- ##  📫 Como entrar em contato: 
+ ##  📫 Como entrar em contato:
 
 📧 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a>
  
