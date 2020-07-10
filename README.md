@@ -1,6 +1,10 @@
  # Olá, eu sou o Hadson 👋
+  
+ ### 🔭 Atualmente, Sou estudande do curso de Sistemas de Informação do 8º Semestre . 
  
- ### 🔭 Atualmente, estou terminando a faculdade e estudando para ampliar meus conhecimentos. 
+  
+ ### 📖 Recentemente começei a fazer o curso de desenvolvedor Fullstack na DevPleno 
+ 
  
  ### 🌱 Atualmente, estou aprendendo JavaScript, Node e Reactjs. 
  </br>
