@@ -11,7 +11,7 @@
  
  ##  📫 Como entrar em contato: 
 
-📧 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a> </br>
+📧 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a>
  
 🧳 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">Linkedin</a>
 
