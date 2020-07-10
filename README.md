@@ -2,12 +2,15 @@
  
  ### 🔭 Atualmente, estou terminando a faculdade e estudando para ampliar meus conhecimentos. 
  
- ### 🌱 Atualmente, estou aprendendo JavaScript e Node, Reactjs. 
+ ### 🌱 Atualmente, estou aprendendo JavaScript, Node e Reactjs. 
  </br>
  
- ##  📫 Como me alcançar: 
+ ##  📫 Como entrar em contato: 
 
-<a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a>
+📧 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a> </br>
+ 
+🧳 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">Linkedin</a>
+
 
 <!--
 **Hadsondev/Hadsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
