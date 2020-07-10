@@ -1,4 +1,4 @@
- # Olá, eu sou o Hadson 👋
+ # Olá, eu sou Hadson 👋
   
  ### 🔭 Atualmente, Sou estudande do curso de Sistemas de Informação do 8º Semestre . 
  
