@@ -11,11 +11,12 @@
  
  ##  📫 Como entrar em contato: 
 
-📧 <a href="mailton:hadsonmartins10@gmail.com" target="_blank">E-mail</a>
+📧 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">E-mail</a>
  
 🧳 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">Linkedin</a>
 
 💬 <a href="https://t.me/hadsonmartins" target="_blank">Telegram</a>
+[teste](https://t.me/hadsonmartins)
 
 
 <!--
