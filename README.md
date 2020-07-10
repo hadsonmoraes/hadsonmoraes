@@ -1,6 +1,7 @@
  # Olá, eu sou Hadson 👋
-         
-         ```
+    
+ 
+ ```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -21,6 +22,7 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
+    
          
  ### 🔭 Atualmente, Sou estudante do curso de Sistemas de Informação do 8º Semestre 💻 . 
  
@@ -38,7 +40,6 @@ _____________|','   ///_/-------------/   |
 🧳 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">Linkedin</a>
 
 💬 <a href="https://t.me/hadsonmartins" target="_blank">Telegram</a>
-
 
 
                             
