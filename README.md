@@ -1,7 +1,6 @@
  # Olá, eu sou Hadson 👋
-    
- 
- ```
+
+```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -23,7 +22,6 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
     
-         
  ### 🔭 Atualmente, Sou estudante do curso de Sistemas de Informação do 8º Semestre 💻 . 
  
   
