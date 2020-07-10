@@ -1,4 +1,5 @@
  # Olá, eu sou Hadson 👋
+ 
   
  ### 🔭 Atualmente, Sou estudande do curso de Sistemas de Informação do 8º Semestre . 
  
@@ -16,7 +17,7 @@
 🧳 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">Linkedin</a>
 
 💬 <a href="https://t.me/hadsonmartins" target="_blank">Telegram</a>
-[teste](https://t.me/hadsonmartins)
+
 
 
 <!--
