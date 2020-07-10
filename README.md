@@ -1,6 +1,5 @@
  # Olá, eu sou Hadson 👋
- 
-  
+         
  ### 🔭 Atualmente, Sou estudante do curso de Sistemas de Informação do 8º Semestre 💻 . 
  
   
@@ -19,7 +18,26 @@
 💬 <a href="https://t.me/hadsonmartins" target="_blank">Telegram</a>
 
 
-
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------, - | | C> //) \\\\ |
+           , ',' | / || , '///// |
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,' 
+`` ``
 <!--
 **Hadsondev/Hadsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
