@@ -29,14 +29,15 @@ _____________|','   ///_/-------------/   |
  
  
  ### 🌱 Atualmente, estou aprendendo algumas Stacks abaixo:
- #### Html,   
- #### Css, <br>
- #### Tailwind CSS, < br >
- #### JavaScript, < br >
- #### Node, <br>
- #### React, <br>
-  Next. <br>
  
+ #### Html,   
+ #### Css, 
+ #### Tailwind CSS, 
+ #### JavaScript, 
+ #### Node, 
+ #### React, 
+ #### Next. 
+  
  <br />
  
  ##  📫 Como entrar em contato:
