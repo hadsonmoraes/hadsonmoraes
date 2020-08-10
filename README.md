@@ -25,11 +25,18 @@ _____________|','   ///_/-------------/   |
  ### 🔭 Atualmente, Sou estudante do curso de Sistemas de Informação do 8º Semestre 💻 . 
  
   
- ### 📖 Recentemente começei a fazer o curso de desenvolvedor Fullstack na DevPleno 
+ ### 📖 Faço o curso Fullstack Master na DevPleno https://devpleno.com/
  
  
- ### 🌱 Atualmente, estou aprendendo algumas Stacks como JavaScript, Node, Next e Etc. 
- </br>
+ ### 🌱 Atualmente, estou aprendendo algumas Stacks abaixo
+ #### Html, <br />
+ #### Css, <br />
+ #### Tailwind CSS, <br />
+ #### JavaScript, <br />
+ #### Node, <br />
+ #### React, <br />
+ #### Next. <br />
+ 
  
  ##  📫 Como entrar em contato:
 
