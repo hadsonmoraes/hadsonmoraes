@@ -29,7 +29,7 @@ _____________|','   ///_/-------------/   |
  
  
  ### 🌱 Atualmente, estou aprendendo algumas Stacks abaixo
- #### <p> Html, </p> <br />
+ #### Html,</p>  
  #### Css, <br />
  #### Tailwind CSS, <br />
  #### JavaScript, <br />
