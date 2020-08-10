@@ -28,15 +28,16 @@ _____________|','   ///_/-------------/   |
  ### 📖 Faço o curso Fullstack Master na DevPleno https://devpleno.com/
  
  
- ### 🌱 Atualmente, estou aprendendo algumas Stacks abaixo
- #### Html, <br>  
+ ### 🌱 Atualmente, estou aprendendo algumas Stacks abaixo:
+ #### Html,   
  #### Css, <br>
  #### Tailwind CSS, < br >
  #### JavaScript, < br >
  #### Node, <br>
  #### React, <br>
- #### Next. <br>
+  Next. <br>
  
+ <br />
  
  ##  📫 Como entrar em contato:
 
