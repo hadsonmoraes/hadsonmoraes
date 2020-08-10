@@ -30,7 +30,7 @@ _____________|','   ///_/-------------/   |
  
  ### 🌱 Atualmente, estou aprendendo algumas Stacks abaixo:
  
- Html  <br>
+ *Html  <br>
  Css <br>
  Tailwind CSS <br>
  JavaScript <br>
