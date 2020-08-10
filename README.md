@@ -22,13 +22,13 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
     
- ### 🔭 Atualmente, Sou estudante do curso de Sistemas de Informação do 8º Semestre 💻 . 
+ ### 🔭 Sou formado em Sistemas de Informação💻. 
  
   
  ### 📖 Faço o curso Fullstack Master na DevPleno https://devpleno.com/
  
  
- ### 🌱 Atualmente, estou aprendendo algumas Stacks abaixo:
+ ### 🌱 Estou aprendendo algumas Stacks abaixo:
  
  * Html  <br>
  * Css <br>
