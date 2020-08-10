@@ -30,8 +30,8 @@ _____________|','   ///_/-------------/   |
  
  ### 🌱 Atualmente, estou aprendendo algumas Stacks abaixo:
  
- Html   
- Css 
+ Html  <br>
+ Css <br>
  Tailwind CSS <br>
  JavaScript <br>
  Node.js <br>
