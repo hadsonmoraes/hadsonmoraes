@@ -25,9 +25,9 @@ _____________|','   ///_/-------------/   |
  ### 🔭 Sou formado em Sistemas de Informação💻. 
  
   
- ### 📖 Faço o curso
- Fullstack Master na DevPleno https://devpleno.com/
- Pacote Fullstack na Danki Code https://dankicode.com
+ ### 📖 Faço os cursos
+ Fullstack Master na DevPleno https://devpleno.com/ <br>
+ Pacote Fullstack na Danki Code https://dankicode.com <br>
  
  
  ### 🌱 Estou aprendendo algumas Stacks abaixo:
