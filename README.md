@@ -32,7 +32,7 @@ _____________|','   ///_/-------------/   |
  
  ### 🌱 Estou aprendendo algumas Stacks abaixo:
  
- * Html  <br>
+ * [Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  <br>
  * Css <br>
  * Tailwind CSS <br>
  * JavaScript <br>
