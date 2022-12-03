@@ -21,7 +21,11 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-    
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadsonmartins"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadsonmartins&layout=compact"/>
+</div>
+ 
  ### 🔭 Sou formado em Sistemas de Informação💻. 
  
   
