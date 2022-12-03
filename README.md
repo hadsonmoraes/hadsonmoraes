@@ -40,8 +40,7 @@ _____________|','   ///_/-------------/   |
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <br>
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) <br>
-  
- <br />
+  ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <br>
  
   ### Editor de Código:
    ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br>
@@ -49,11 +48,8 @@ _____________|','   ///_/-------------/   |
  ##  📫 Como entrar em contato:
 
 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <br>
-
 <a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <br>
-
 <a href="https://wa.me/5565992713476" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> <br>
-
 <a href="https://t.me/hadsonmartins" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 
