@@ -47,10 +47,9 @@ _____________|','   ///_/-------------/   |
  
  ##  📫 Como entrar em contato:
 
-<a href="mailto:hadsonmartins10@gmail.com" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <br>
-<a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <br>
-<a href="https://wa.me/5565992713476" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> <br>
-<a href="https://t.me/hadsonmartins" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:hadsonmartins10@gmail.com" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+
 
 
                             
