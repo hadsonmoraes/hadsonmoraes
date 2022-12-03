@@ -1,5 +1,6 @@
  # Olá, eu sou Hadson 👋
 
+<!--
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -21,7 +22,7 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-
+-->
 <div align="center">
   <a href="https://github.com/hadsonmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadsonmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
