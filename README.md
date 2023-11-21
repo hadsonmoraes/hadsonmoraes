@@ -24,7 +24,7 @@ _____________|','   ///_/-------------/   |
 ```
 -->
 <div align="center">
-  <a href="https://github.com/hadsonmartins">
+  <a href="https://github.com/hadsonmoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadsonmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadsonmartins&layout=compact&theme=dracula"/>
 </div>
@@ -61,7 +61,7 @@ _____________|','   ///_/-------------/   |
  ##  📫 Como entrar em contato:
 
 <a href="mailto:hadsonmartins10@gmail.com" target="_blank">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/hadsonmartins/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/hadsonmoraes/" target="_blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 
 
